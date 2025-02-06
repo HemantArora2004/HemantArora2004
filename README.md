@@ -1,8 +1,18 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HemantArora2004&show_icons=true&theme=radical)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HemantArora2004&layout=donut)](https://github.com/HemantArora2004/github-readme-stats)
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kennethjmyers&show_icons=true&locale=en&layout=compact&theme=dark&hide=HTML%2CCSS%2CSCSS%2CRuby%2CJupyter%20Notebook"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kennethjmyers&show_icons=true&locale=en&layout=compact&hide=HTML%2CCSS%2CSCSS%2CRuby%2CJupyter%20Notebook"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kennethjmyers&show_icons=true&locale=en&layout=compact&hide=HTML%2CCSS%2CSCSS%2CRuby%2CJupyter%20Notebook" />
+</picture>
 
 
 
