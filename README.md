@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemantArora2004"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HemantArora2004)](https://github.com/HemantArora2004/github-readme-stats)
 
 
 <!--
