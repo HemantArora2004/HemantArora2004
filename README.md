@@ -4,14 +4,14 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kennethjmyers&show_icons=true&locale=en&layout=compact&theme=dark&hide=HTML%2CCSS%2CSCSS%2CRuby%2CJupyter%20Notebook"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=HemantArora2004&show_icons=true&locale=en&layout=compact&theme=dark&hide=HTML%2CCSS%2CSCSS%2CRuby%2CJupyter%20Notebook"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kennethjmyers&show_icons=true&locale=en&layout=compact&hide=HTML%2CCSS%2CSCSS%2CRuby%2CJupyter%20Notebook"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=HemantArora2004&show_icons=true&locale=en&layout=compact&hide=HTML%2CCSS%2CSCSS%2CRuby%2CJupyter%20Notebook"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kennethjmyers&show_icons=true&locale=en&layout=compact&hide=HTML%2CCSS%2CSCSS%2CRuby%2CJupyter%20Notebook" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HemantArora2004&show_icons=true&locale=en&layout=compact&hide=HTML%2CCSS%2CSCSS%2CRuby%2CJupyter%20Notebook" />
 </picture>
 
 
