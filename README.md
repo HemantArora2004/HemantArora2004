@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HemantArora2004&layout=donut)](https://github.com/HemantArora2004/github-readme-stats)
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=HemantArora2004&show_icons=true&locale=en&layout=donut&theme=dark&hide=HTML%2CCSS%2CSCSS%2CRuby%2CJupyter%20Notebook"
