@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HemantArora2004&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HemantArora2004&layout=donut)](https://github.com/HemantArora2004/github-readme-stats)
 
